@@ -48,5 +48,5 @@ Temporary Items
 .apdisk
 
 # Ignore commiting
-# db.sqlite3
+db.sqlite3
 *.pyc
